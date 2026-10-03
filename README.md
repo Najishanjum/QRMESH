@@ -46,3 +46,4 @@ View your app in AI Studio: https://ai.studio/apps/d5e62cb4-45e9-4c94-a234-1fb45
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+this is build by najish for offline 
